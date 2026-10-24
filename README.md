@@ -25,9 +25,6 @@ Users enter their **destination, budget, number of travellers, interests, and tr
 * **Location/Geocoding API**
 * **Unsplash API**
 
-## 📱 Demo
-
-A demo video showcasing the application is available on my LinkedIn profile.
 
 ## 🚀 Project Status
 
